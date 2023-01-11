@@ -35,4 +35,16 @@ At the moment, we store product listings in a JSON format; in the future, howeve
 
 ### Authors
 
+Gabe Guralnick
+
+Ian Lavine
+
+Megan Horsthuis
+
+Jayden Jung
+
+Karrie Chou
+
+Jueun Kang
+
 ### Acknowledgements
