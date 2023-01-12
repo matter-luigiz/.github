@@ -24,8 +24,8 @@ Matter exists on a relatively simple tech stack.
 Our frontend is programmed using React Typescript (starting from Create-React-App) and is hosted on a DigitalOcean droplet. We used NGINX for reverse-proxy to serve the site, and our domain, [luigiz-matter.tech](https://luigiz-matter.tech), was purchased from [get.tech](https://get.tech/). This frontend contains the Home, Search, Learn, and Supply pages, and connects with our backend for search requests and results.
 
 Our backend is an Express server, programmed with JavaScript. It is hosted on Heroku. It has routes to get available product categories and perform searches among our product listings.
-INSERT WEB SCRAPING EXPLANATION
-At the moment, we store product listings in a JSON format; in the future, however, we would want to migrate this to a relational database to improve query efficiency.
+
+This product list is an aggregate of multiple sustainable product manufacturer websites, which were webscraped. The webscraping tool used was selenium, as it allowed for navigation of dynamic webpages. The general process for webscraping these sites was to find their navigation menu, iteratively click each category, and find the list of the products on each of those pages. While each website varied slightly on what metadata was offered, generally with each product listed, an image, a link to its unique product page, the cost, and a list of certifications were easily accessed by searching through the encompassing html. This data was then sorted into dictionaries and stored. At the moment, we store product listings in a JSON format; in the future, however, we would want to migrate this to a relational database to improve query efficiency.
 
 ## Technical Details
 
