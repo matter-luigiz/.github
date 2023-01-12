@@ -50,6 +50,7 @@ Jueun Kang
 ### Acknowledgements
 
 We'd like to thank the following sites who we used for our product listings:
-Cradle to Cradle - https://www.c2ccertified.org/products/registry
-Cirplus - https://www.cirplus.com/app
-Inesscents - https://inesscents.com/shop-all/
+
+- Cradle to Cradle - https://www.c2ccertified.org/products/registry
+- Cirplus - https://www.cirplus.com/app
+- Inesscents - https://inesscents.com/shop-all/
