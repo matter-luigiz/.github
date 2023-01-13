@@ -25,7 +25,7 @@ Our frontend is programmed using React Typescript (starting from Create-React-Ap
 
 Our backend is an Express server, programmed with JavaScript. It is hosted on Heroku. It has routes to get available product categories and perform searches among our product listings.
 
-This product list is an aggregate of multiple sustainable product manufacturer websites, which were webscraped. The webscraping tool used was selenium, as it allowed for navigation of dynamic webpages. The general process for webscraping these sites was to find their navigation menu, iteratively click each category, and find the list of the products on each of those pages. While each website varied slightly on what metadata was offered, generally with each product listed, an image, a link to its unique product page, the cost, and a list of certifications were easily accessed by searching through the encompassing html. This data was then sorted into dictionaries and stored. At the moment, we store product listings in a JSON format; in the future, however, we would want to migrate this to a relational database to improve query efficiency.
+This product list is an aggregate of multiple sustainable product manufacturer websites, which were webscraped. The webscraping tool used was selenium, as it allowed for navigation of dynamic webpages. The general process for webscraping these sites was to find their navigation menu, iteratively click each category, and find the list of the products on each of those pages. While each website varied slightly on what metadata was offered, generally with each product listed, an image, a link to its unique product page, the cost, and a list of certifications were easily accessed by searching through the encompassing html. This data was then sorted into dictionaries and stored. At the moment, we store product listings in a JSON format; in the future, however, we would want to migrate this to a relational database to improve query efficiency. In addition, we plan on forming more direct relationships with materials manufacturers, so that listings could be more directly integrated into the site.
 
 ## Technical Details
 
@@ -56,3 +56,7 @@ We'd like to thank the following sites who we used for our product listings:
 - Cradle to Cradle - https://www.c2ccertified.org/products/registry
 - Cirplus - https://www.cirplus.com/app
 - Inesscents - https://inesscents.com/shop-all/
+
+We'd also like to thank [Storyset](https://storyset.com/) for providing various graphics that we used on the site.
+
+Finally, we'd like to thank UofT Entrepreneurship and RBC for hosting this hackathon.
