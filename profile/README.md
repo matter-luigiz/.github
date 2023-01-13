@@ -31,6 +31,8 @@ This product list is an aggregate of multiple sustainable product manufacturer w
 
 ### Architecture Diagram
 
+![Matter Architecture](https://user-images.githubusercontent.com/17555595/212224736-debdfc74-a279-42de-a990-3b723ec7e961.jpg)
+
 ## Closing Notes
 
 ### Authors
