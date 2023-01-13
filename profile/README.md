@@ -15,7 +15,7 @@ As mentioned, the core page of the Matter site is our product marketplace, where
 
 Matter also includes a page for suppliers to apply to be listed in our product registry. At the moment, all of our product listings were pulled from other sites and contain links to those original listings, but our intention for the site is to eventually form connections with sustainable materials suppliers and host their product listings fully on Matter to further reduce the time needed to find sustainable materials.
 
-Finally, because one of the biggest issues we found in the field of sustainable materials is a general lack of understanding of what issues are important when searching for materials and what each of the many available sustainability certifications actually means, Matter includes a 'Learn' page to educate users about this topic.
+Finally, because one of the biggest issues we found in the field of sustainable materials is a general lack of understanding of what issues are important when searching for materials and what each of the many available sustainability certifications actually means, Matter includes a 'Learn' page to educate users about this topic. However, due to time constraints, we were unable to fully implement this page, though it is at the top of our priorities for future work on the site.
 
 ### Built With
 
