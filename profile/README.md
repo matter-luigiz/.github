@@ -9,6 +9,14 @@ RBC Innovation Challenge - Team Luigiz
 Matter is an online platform that allows small and medium enterprises (SMEs) and business owners to more easily find sustainable raw materials for their products.
 The primary purpose of the site is to provide a convenient and easily-navigable marketplace for these materials to reduce the difficulty of finding high-quality, sustainable materials for products. Through our research of the current landscape for finding sustainable materials, we found that the multitude of available sustainability certifications and marketplaces makes it difficult for business-owners to search for and compare products among a variety of sources, so we built Matter to help alleviate this difficulty.
 
+[Watch our pitch video here](https://www.youtube.com/watch?v=62tKXf8JTj4)
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/17555595/216184500-18c34f6a-2487-4469-ab9c-3937e4a1bfa4.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/17555595/216184539-81879b7e-434c-4844-8a25-054daac61a55.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/17555595/216184601-524ee7e1-2295-438a-a296-0921cddf95ae.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/17555595/216184621-d3640f9e-2023-4af7-8f97-293dc48b7f54.png">
+
+
 ### Features
 
 As mentioned, the core page of the Matter site is our product marketplace, where users can search for materials that fit their needs. As part of our goal to allow users to search among a variety of sources, we implemented tools to aggregate product listings from a number of existing sustainable marketplaces and certification bodies; this makes Matter a more comprehensive tool, as there is no longer a need to perform many separate searches in order to find the best materials.
